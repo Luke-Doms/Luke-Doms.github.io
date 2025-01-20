@@ -33,7 +33,7 @@ function Projects() {
                             <div key={id} 
                                 onClick={(e) => {
                                     e.preventDefault();
-                                    window.location.href='https://github.com/Luke-Doms/Rubiks-Cube';
+                                    window.location.href='https://github.com/Luke-Doms/Semiphi';
                                     }} 
                                 className="text-center">
                                 <div className="shadow-md shadow-red-600 rounded-lg duration-200 hover:scale-105">
