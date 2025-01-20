@@ -1,5 +1,5 @@
 import React from 'react'
-import Semiphi from "../assets/semiphi.png";
+import Semiphi from "../assets/semiphi.jpeg";
 import TSP from "../assets/tsp.png";
 
 function Projects() {
@@ -15,10 +15,10 @@ function Projects() {
             title:"TSP Solution",
             src:TSP
         }
-        ]
+    ]
 
     return (
-        <div name="projects" className="bg-gradient-to-b from-white to-orange-100 w-full text-black 
+        <div name="projects" className="bg-gradient-to-b from-white to-purple-300 w-full text-black 
         md:h-screen">
             <div className='max-w-screen-lg p-4 mx-auto flex flex-col justify-center w-full h-full'>
                 <div>
