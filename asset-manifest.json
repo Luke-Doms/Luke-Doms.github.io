@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Personal-Site/static/css/main.1201a40b.css",
+    "main.js": "/Personal-Site/static/js/main.e8aa4e0b.js",
+    "static/media/tsp.png": "/Personal-Site/static/media/tsp.0e871a236cda1de9d2c2.png",
+    "static/media/python.png": "/Personal-Site/static/media/python.ecfb4e6faf26def45e95.png",
+    "static/media/react.png": "/Personal-Site/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/semiphi.jpeg": "/Personal-Site/static/media/semiphi.a8ad851d5422985707bc.jpeg",
+    "static/media/c.png": "/Personal-Site/static/media/c.c417f91d77a7ff6b1329.png",
+    "static/media/github.png": "/Personal-Site/static/media/github.3b9e32903aa89111875d.png",
+    "static/media/html.png": "/Personal-Site/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/tailwind.png": "/Personal-Site/static/media/tailwind.e47ac876b8d4d0bba47a.png",
+    "static/media/css.png": "/Personal-Site/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/nodejs.png": "/Personal-Site/static/media/nodejs.b508473ad71a31ce2fae.png",
+    "static/media/webgl.png": "/Personal-Site/static/media/webgl.1e3297db3592462de1a1.png",
+    "static/media/javascript.png": "/Personal-Site/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "index.html": "/Personal-Site/index.html",
+    "main.1201a40b.css.map": "/Personal-Site/static/css/main.1201a40b.css.map",
+    "main.e8aa4e0b.js.map": "/Personal-Site/static/js/main.e8aa4e0b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1201a40b.css",
+    "static/js/main.e8aa4e0b.js"
+  ]
+}
